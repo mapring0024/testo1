@@ -10,7 +10,7 @@
 namespace Application;
 
 use Zend\Mvc\ModuleRouteListener;
-use Zend\Mvc\MvcEvent;
+use Zend\Mvc\MvcEvent;dddd
 
 class Module
 {
